@@ -1,0 +1,10 @@
+*.nc
+*.nc4
+*.tif
+*.tiff
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.Rproj.user/
