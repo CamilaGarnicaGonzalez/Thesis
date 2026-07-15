@@ -64,4 +64,3 @@ A 5-model ensemble median is calculated for each basin, index, and scenario to s
 
 - Yevjevich, V. (1967). An objective approach to definitions and investigations of continental hydrologic droughts. Hydrology Papers, Colorado State University.
 - Spinoni, J., et al. (2014). World drought frequency, duration, and severity for 1951-2010. International Journal of Climatology.
-- Tabari, H., et al. (2021). Global change impacts on drought.
