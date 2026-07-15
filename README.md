@@ -58,9 +58,7 @@ A 5-model ensemble median is calculated for each basin, index, and scenario to s
   spei-6/
 
 ## Notes
-
 - This repository shares the analysis code only. Raw and processed climate data (.nc files) are not included due to size and are managed separately on a HPC cluster.
-- Data preprocessing scripts are not included in this repository; only the core index calculation, drought characterization, and exposure analysis stages are shown here as a representative sample of the full workflow.
 
 ## References
 
